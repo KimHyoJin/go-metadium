@@ -1,3 +1,20 @@
+## Building
+1. You need ubuntu version over 16.04. (Not working with 14.04)
+2. You need go version 10.xx (Not working with 11.xx. There are some issue withe etherium and go11.xx but it is not fixed in metadium yet.)
+3. You need to install other lib
+
+## Install metadium with Ubuntu
+
+
+
+
+
+
+
+
+
+Below is a description of the existing metadium repository.
+
 ## Go Metadium
 
 Golang implementation of the Metadium project. For now, this is just a forking point. We will release the code as it gets ready for public review. Stay tuned.
